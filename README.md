@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/banner.png" alt="Aleph Campos da Silveira Banner" width="100%" />
 
-  # Hi there, I'm Aleph! 👋
+  # Hi there
   
   **Postdoctoral Research Fellow at Tampere University**
   
@@ -12,11 +12,7 @@
 
 ---
 
-### 🔬 About Me
-
-I am a **Postdoctoral Research Fellow** at the Faculty of Information Technology and Communication Sciences, **Tampere University**, Finland. I am affiliated with the **Tampere Unit for Computer-Human Interaction (TAUCHI)**. 
-
-My work centers on **Human-Computer Interaction (HCI)**, with a deep focus on haptic devices, multisensory user interfaces, and the measurement of Quality of Experience (QoE) through physiological markers. I earned my **Ph.D. in Computer Science** from the **Federal University of Espírito Santo (UFES)** in Brazil.
+###  About Me
 
 - 🌬️ **Research Interests:** Multisensory HCI, Haptic & Thermal Interfaces, Wearable Devices, and Immersive Media (VR/AR).
 - 🎮 **Usability Evaluation:** Deeply interested in the UX design of educational games and heuristic evaluation methodologies.
@@ -24,7 +20,7 @@ My work centers on **Human-Computer Interaction (HCI)**, with a deep focus on ha
 
 ---
 
-### 🛠️ Technology Stack & Methodologies
+###  Technology Stack & Methodologies
 
 <details open>
   <summary><b>Languages & Software Development</b></summary>
@@ -57,15 +53,7 @@ My work centers on **Human-Computer Interaction (HCI)**, with a deep focus on ha
 
 ---
 
-### 📂 Featured Projects
-
-*   **[TWIRL System](https://github.com/PhelaPoscam)** ── A temperature-controlled DIY airflow system designed to deliver localized haptic and thermal feedback synchronized with immersive audio-visual content.
-*   **[Nuanic & Moodmetric BLE Ring Python SDK](https://github.com/PhelaPoscam/Nuanic_Moodmetric_BLE)** ── A Python SDK to interface with biometric BLE rings (such as Moodmetric and Nuanic), facilitating the acquisition of real-time Electrodermal Activity (EDA) and PPG data for user experience and physiological computing research.
-*   **E-Guess** ── An evaluation framework specifically designed for conducting heuristic usability assessments on educational games.
-
----
-
-### 📚 Academic Profiles & Publications
+###  Academic Profiles & Publications
 
 Stay updated with my research and publications on these portals:
 
@@ -75,7 +63,7 @@ Stay updated with my research and publications on these portals:
 
 ---
 
-### 📊 GitHub Activity & Stats
+###  GitHub Activity & Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhelaPoscam&show_icons=true&theme=tokyonight&count_private=true" alt="Aleph's GitHub Stats" height="190px" />
@@ -84,8 +72,8 @@ Stay updated with my research and publications on these portals:
 
 ---
 
-### ✉️ Connect with Me
+###  Connect with Me
 
-- 🏢 **Office:** Faculty of Information Technology and Communication Sciences, Tampere University, Finland.
-- 📧 **Institutional Email:** [aleph.camposdasilveira@tuni.fi](mailto:aleph.camposdasilveira@tuni.fi)
-- 📧 **Personal Email:** [alephcampos@gmail.com](mailto:alephcampos@gmail.com)
+-  **Office:** Faculty of Information Technology and Communication Sciences, Tampere University, Finland.
+-  **Institutional Email:** [aleph.camposdasilveira@tuni.fi](mailto:aleph.camposdasilveira@tuni.fi)
+
