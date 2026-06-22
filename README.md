@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Aleph Campos da Silveira Banner" width="100%" />
-
-  # Hi there
+  # Hi 
   
   **Postdoctoral Research Fellow at Tampere University**
   
