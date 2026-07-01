@@ -12,9 +12,9 @@
 
 ###  About Me
 
-- 🌬️ **Research Interests:** Multisensory HCI, Haptic & Thermal Interfaces, Wearable Devices, and Immersive Media (VR/AR).
-- 🎮 **Usability Evaluation:** Deeply interested in the UX design of educational games and heuristic evaluation methodologies.
-- ⚡ **Physical Computing:** Designing and prototyping hardware/software interfaces to bridge physical stimuli with digital environments.
+- **Research Interests:** Multisensory HCI, Haptic & Thermal Interfaces, Wearable Devices, and Immersive Media (VR/AR).
+- **Usability Evaluation:** Deeply interested in the UX design of educational games and heuristic evaluation methodologies.
+- **Multimodal Interfaces:** Designing and prototyping hardware/software interfaces to bridge physical stimuli with digital environments.
 
 ---
 
