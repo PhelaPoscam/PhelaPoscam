@@ -12,11 +12,11 @@
 
 ###  About Me
 
-- 🔬 **Core Research:** Multisensory HCI (*Mulsemedia*), Haptic & Thermal Feedback Systems, Wearable Biosensors, and Immersive Media (VR/AR).
-- 🧩 **UX & Usability Evaluation:** Deep expertise in heuristic evaluation methodologies, user experience design, and educational technologies.
-- 🛠️ **Hardware & Software Prototyping:** Designing and building physical interfaces (e.g., airflow, thermal devices, EDA/PPG sensors) that bridge physical stimuli with digital environments.
-- 🔭 **Current Focus:** Postdoctoral Research Fellow at [TAUCHI](https://www.tuni.fi/en/research/tampere-unit-computer-human-interaction) (Tampere Unit for Computer-Human Interaction), exploring next-generation multisensory interaction techniques.
-- 🤝 **Open to Collaboration:** Always happy to connect regarding interdisciplinary research in physiological UX, multisensory perception, or academic mentoring.
+-  **Core Research:** Multisensory HCI (*Mulsemedia*), Haptic & Thermal Feedback Systems, Wearable Biosensors, and Immersive Media (VR/AR).
+-  **UX & Usability Evaluation:** Deep expertise in heuristic evaluation methodologies, user experience design, and educational technologies.
+-  **Hardware & Software Prototyping:** Designing and building physical interfaces (e.g., airflow, thermal devices, EDA/PPG sensors) that bridge physical stimuli with digital environments.
+-  **Current Focus:** Postdoctoral Research Fellow at [TAUCHI](https://www.tuni.fi/en/research/tampere-unit-computer-human-interaction) (Tampere Unit for Computer-Human Interaction), exploring next-generation multisensory interaction techniques.
+
 
 ---
 
